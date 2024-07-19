@@ -15,7 +15,7 @@ Creating an Active Directory (AD) environment in VirtualBox involves setting up 
 <h2>Languages & Utilities:</h2>
 
 - <b> Oracle VirtualBox (www.virtualbox.org) </b>
-- <b>VirtualBox Extension Pack (https://www.virtualbox.org/wiki/Downloads) </b>
+- <b>VirtualBox Extension Pack (https://www.virtualbox.org/Downloads) </b>
 - <b>Microsoft Server 2019 Evaluations ISO (https://info.microsoft.com/ww-landing-windows-server-2019.html)</b>
 - <b>Microsoft Windows 10 Bootable USB ISO (https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d) (for new workstations) </b>
 
